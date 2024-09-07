@@ -19,13 +19,22 @@ Covered/Revised Topic: Arrays, Linked List
 
 
 
-Day 01 of 45 Complete (5 of 280)!
+Day 02 of 45 Complete (5 of 280)!
 
-Covered/Revised Topic: Arrays
+Covered/Revised Topic: Arrays, Leetcode Daily Challenge 
 
-💡 Solved/Revised 4 Problems:
+💡 Solved/Revised 5 Problems:
 
 
 ✅ Set Matrix Zeros 
 
 ✅ Merge Sorted Array 
+
+✅ Best Time to Buy and Sell Stock 
+
+✅ Best Time to Buy and Sell Stock II
+
+✅ linked list in binary tree
+
+
+
