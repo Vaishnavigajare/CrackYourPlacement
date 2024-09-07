@@ -16,3 +16,16 @@ Covered/Revised Topic: Arrays, Linked List
 ✅ Remove Duplicates from Sorted Array's
 
 ✅ Remove Linked List Element
+
+
+
+Day 01 of 45 Complete (5 of 280)!
+
+Covered/Revised Topic: Arrays
+
+💡 Solved/Revised 4 Problems:
+
+
+✅ Set Matrix Zeros 
+
+✅ Merge Sorted Array 
