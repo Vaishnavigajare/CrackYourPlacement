@@ -39,5 +39,7 @@ Covered/Revised Topic: Arrays, Leetcode Daily Challenge
 
 Day 03
 
+Day 04
+
 
 
