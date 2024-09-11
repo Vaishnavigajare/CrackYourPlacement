@@ -23,12 +23,7 @@ Day 02 of 45 Complete (5 of 280)!
 
 Covered/Revised Topic: Arrays, Leetcode Daily Challenge 
 
-💡 Solved/Revised 5 Problems:
-
-
-✅ Set Matrix Zeros 
-
-✅ Merge Sorted Array 
+💡 Solved/Revised 3 Problems:
 
 ✅ Best Time to Buy and Sell Stock 
 
@@ -37,9 +32,68 @@ Covered/Revised Topic: Arrays, Leetcode Daily Challenge
 ✅ linked list in binary tree
 
 
-Day 03
 
-Day 04
+Day 03 of 45 Complete (8 of 280)!
+
+Covered/Revised Topic: Arrays 
+
+💡 Solved/Revised 4 Problems:
+
+✅ Set Matrix Zeros 
+
+✅ Merge Sorted Array 
+
+✅ Find the Duplicate Number 
+
+✅ Sort Colors
+
+
+
+Day 04 of 45 Complete (13 of 280)!
+
+Covered/Revised Topic: String 
+
+💡 Solved/Revised 4 Problems:
+
+✅ Valid Parenthesis
+
+✅ Print all the duplicate characters in a string
+
+✅ Longest Common Prefix 
+
+✅ Find the Index of the First Occurrence in a String
+
+
+
+Day 05 of 45 Complete (18 of 280)!
+
+Covered/Revised Topic: String and Linked list 
+
+💡 Solved/Revised 4 Problems:
+
+✅ valid Palindrome II
+
+✅ Integer to Roman
+
+✅ Add Binary 
+
+✅ Maximum Product of Three Numbers 
+
+
+Day 06 of 45 Complete (23 of 280)!
+
+Covered/Revised Topic: Linked List 
+
+💡 Solved/Revised 4 Problems:
+
+✅ Middle of Linked List 
+
+✅ 
+
+
+
+
+
 
 
 
