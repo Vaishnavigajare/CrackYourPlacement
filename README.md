@@ -94,6 +94,14 @@ Covered/Revised Topic: Linked List
 
 ✅ Linked List Cycle
 
+Day 06 of 45 Complete (28 of 280)!
+
+Covered/Revised Topic: Mathematical 
+
+💡 Solved/Revised 4 Problems:
+
+✅ Excel Sheet Column Title 
+
 
 
 
