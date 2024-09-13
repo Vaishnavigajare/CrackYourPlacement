@@ -103,6 +103,15 @@ Covered/Revised Topic: Mathematical
 ✅ Excel Sheet Column Title 
 
 
+Day 07 of 45 Complete (33 of 280)!
+
+Covered/Revised Topic: Mathematical 
+
+💡 Solved/Revised 4 Problems:
+
+✅ 
+
+
 
 
 
